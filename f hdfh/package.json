@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "@discordjs/builders": "^1.4.0",
+    "@discordjs/voice": "^0.14.0",
+    "@distube/soundcloud": "^1.3.3",
+    "@distube/spotify": "^1.5.1",
+    "anime-actions": "^1.0.6",
+    "ascii-table": "^0.0.9",
+    "canvas": "^2.11.0",
+    "cheerio": "^1.0.0-rc.12",
+    "colors": "^1.4.0",
+    "discord-giveaways": "^6.0.1",
+    "discord-html-transcripts": "^3.1.2",
+    "discord.js": "^14.7.1",
+    "distube": "^4.0.4",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "glob": "^8.0.3",
+    "iso-639-1": "^2.1.15",
+    "libsodium-wrappers": "^0.7.11",
+    "megadb": "^3.4.0",
+    "mongoose": "^6.8.2",
+    "ms": "^2.1.3",
+    "nodejs": "^0.0.0",
+    "play-audio": "^0.5.2",
+    "play-dl": "^1.9.6",
+    "quick.db": "^9.1.6",
+    "request": "^2.88.2",
+    "spanish": "^0.0.0-NONE",
+    "translate-google": "^1.5.0",
+    "tweetnacl": "^1.0.3",
+    "twemoji-parser": "^14.0.0",
+    "visa2discord": "^1.0.17",
+    "wikijs": "^6.4.1"
+  },
+  "name": "kmg team",
+  "description": "��#\u0000 \u0000f\u0000s\u0000d\u0000f\u0000s\u0000\r\u0000 \u0000#\u0000 \u0000h\u0000g\u0000j\u0000g\u0000h\u0000j\u0000\r\u0000 \u0000",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
